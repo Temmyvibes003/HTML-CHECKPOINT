@@ -1,0 +1,19 @@
+h1 {
+    color:black;
+}
+body{
+    background-color: aqua;
+}
+body{
+    .roboto-bold {
+        font-family: "Roboto", serif;
+        font-weight: 700;
+        font-style: normal;
+        }
+}
+.index-h1{
+    color: red;
+}
+.about-header{
+    color: green
+}
